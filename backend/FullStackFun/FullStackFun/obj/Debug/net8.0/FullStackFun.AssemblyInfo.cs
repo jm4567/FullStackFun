@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FullStackFun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1af8f8ea00450f3a0b5566e2cf62e558c33698b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FullStackFun")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FullStackFun")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
